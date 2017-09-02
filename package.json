@@ -1,26 +1,28 @@
 {
-  "name": "hola-mundo-nodejs-servidor-iniciado",
+  "name": "http-createserver-102-a",
   "version": "0.1.0",
-  "description": "hola mundo nodejs servidor iniciado",
+  "description": "hola mundo nodejs servidor iniciado http createserver",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wiltrovira/hola-mundo-nodejs-servidor-iniciado.git"
+    "url": "git+https://github.com/wiltrovira/http-createserver-102-a.git"
   },
   "keywords": [
     "hola",
     "mundo",
     "nodejs",
     "servidor",
-    "iniciado"
+    "iniciado",
+    "http",
+    "createserver"
   ],
   "author": "Wilt Rovira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wiltrovira/hola-mundo-nodejs-servidor-iniciado/issues"
+    "url": "https://github.com/wiltrovira/http-createserver-102-a/issues"
   },
-  "homepage": "https://github.com/wiltrovira/hola-mundo-nodejs-servidor-iniciado#readme"
+  "homepage": "https://github.com/wiltrovira/http-createserver-102-a#readme"
 }
